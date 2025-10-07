@@ -1,0 +1,29 @@
+{
+  "Low": {
+    "title": "Foundation Builder",
+    "modules": [
+      "Core Concepts Refresher",
+      "Practice Tests",
+      "Study Habit Improvement"
+    ],
+    "hours": "10-15 hrs/week"
+  },
+  "Medium": {
+    "title": "Targeted Growth",
+    "modules": [
+      "Advanced Practice",
+      "Timed Papers",
+      "Weekly Revision"
+    ],
+    "hours": "6-10 hrs/week"
+  },
+  "High": {
+    "title": "Advanced Mastery",
+    "modules": [
+      "Projects",
+      "Peer Challenges",
+      "Mock Tests"
+    ],
+    "hours": "4-8 hrs/week"
+  }
+}
