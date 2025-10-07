@@ -64,3 +64,4 @@ with open("learning_paths.json", "w") as f:
     json.dump(learning_paths, f, indent=2)
 
 print("✅ Files saved: model.pkl, scaler.pkl, learning_paths.json")
+
